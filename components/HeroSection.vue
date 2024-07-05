@@ -9,7 +9,7 @@
               <div class="card">
                 <div class="card-body">
                   <div class="d-flex flex-column align-items-center text-center">
-                    <img src="https://res.cloudinary.com/du0tsletf/image/upload/v1720026017/pp2_isb7mg.png" alt="Admin" class="object-fit-cover rounded-circle" width="150"height="150">
+                    <img src="https://res.cloudinary.com/du0tsletf/image/upload/v1720182855/ippang_hyyewt.jpg" alt="Admin" class="object-fit-cover rounded-circle" width="150"height="150">
                     <div class="mt-3">
                       <h4>IPANG</h4>
                       <p class="text-secondary mb-1">MAHASISWA</p>
